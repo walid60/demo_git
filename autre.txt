@@ -1,3 +1,5 @@
 ceci est un fichier .txt
 
 et maintenant je vais modifier sur github
+
+et depuis ma machine
